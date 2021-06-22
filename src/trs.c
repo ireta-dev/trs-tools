@@ -18,6 +18,7 @@
 #define TRS_PIXEL_SIZE 3
 #define TRS_HEADER_SIZE 12
 #define TRS_IMAGE_HEADER_SIZE 12
+#define TRS_MAGIC_LENGTH 4
 
 static int trs_is_be ()
 {
